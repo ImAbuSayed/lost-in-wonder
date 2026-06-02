@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-in-wonder/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Lost In Wonder](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-wonder/) |
+| **Get License** | [Request Licensing for Lost In Wonder](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-wonder/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2547)
 
 ---
 
